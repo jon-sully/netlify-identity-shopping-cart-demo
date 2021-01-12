@@ -1,5 +1,3 @@
-import "./src/css/tailwind.css"
-
 import React from 'react'
 import { loadStripe } from '@stripe/stripe-js'
 import { CartProvider } from 'use-shopping-cart'
